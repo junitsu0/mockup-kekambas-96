@@ -10,14 +10,14 @@
 
 #forms{
     width:400px;
-    height:30px;
+    height:20px;
     padding: 5px;
     border:1px solid #918f8f;
     display: flex; 
 }
 
 #continue{
-    width:400px;
+    width:412px;
     height:30px;
     padding: 5px;
     border:1px solid #000;
@@ -27,14 +27,15 @@
 #create{
     width:415px;
     height:30px;
+    margin:20px;
     border:1px solid #d3d3d3;
-    align-self: baseline;
-
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 nav li{
     display: inline;
-    margin:20px;
+    margin-left:20px;
     font-size: smaller;
-    
 }
