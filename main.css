@@ -39,3 +39,9 @@ nav li{
     margin-left:20px;
     font-size: smaller;
 }
+html{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    flex-direction: column;
+}
