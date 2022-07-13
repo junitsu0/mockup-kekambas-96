@@ -36,8 +36,8 @@
 
 nav li{
     display: inline;
-    margin-left:20px;
-    font-size: smaller;
+    margin-left:40px;
+    font-size: small;
 }
 html{
     display: flex;
